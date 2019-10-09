@@ -2,7 +2,7 @@ package java_project;
 
 public class panja {
 
-	public String chutiya;
+	public int emp_id;
 
-	public String bohot_bada;
+	public String location;
 }
